@@ -122,3 +122,9 @@ nav .user-area {
     border-radius: 50%;
     overflow: hidden;
 }
+
+nav .create {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
